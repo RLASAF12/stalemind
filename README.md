@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/stalemind) (folder `stalemind/`, full history preserved). Archived 2026-10-04.
+
 # StaleMind · Agent Failure Series #16
 
 > **"Your agent didn't fail because it was wrong. It failed because it was confidently outdated."**
